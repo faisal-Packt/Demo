@@ -1,0 +1,57 @@
+Hi <author>,
+
+My name is <name> and I work for a publishers called Packt Publishing. We publish books for all levels of I.T. users across Enterprise and Open Source software (www.packtpub.com if you would like to have a look).
+ 
+We currently have a book in development called Mastering OpenVPN. This book will provide advanced-level information on building secure Virtual Private Networks using OpenVPN. 
+ 
+I was wondering if you would be interested in discussing the opportunity to author this title for us? I’ve seen from your blog posts that you are very knowledgeable about this area, and would be delighted if you did want to discuss this opportunity further.
+ 
+I look forward to hearing from you soon.
+ 
+Kind regards,
+
+________________________________________
+
+Hi <author>, 
+
+My name's <name>, and I'm writing from Packt Publishing (https://www.packtpub.com). We are currently looking to produce a book on SFML, tentatively titled Mastering SFML Game Development. The book will aim to create one complex project with SFML and, while doing so, teach advanced-level skills. Some of the potential topics that this book could cover include elements, handlers, rendering, animation, audio, manipulation, or creating multi-player environments. In total, we expect this book to be in the region of 200-250 pages. 
+
+Given your skill with SFML, such as through your Python-SFML website, I wondered if you'd be interested in authoring this title for us? We have seen that you are particularly skilled with SFML, so we feel it'd be great if you came on board with us for this. Would you be interested in this project?
+
+I look forward to hearing from you soon. 
+
+All the best,
+
+________________________________________
+
+Hi <author>,
+
+You were referred to me by Liz Keogh, and your blog and your BDD Kickstart have only further confirmed your deep knowledge of Learning Behaviour-driven development with JavaScript.
+
+My name is <name>, and I’m an Acquisition Editor at Packt Publishing (packtpub.com). We are developing a book on that exact subject matter, and I think your skills and expertise would be well-suited to the project. The purpose of the book would be to show how to write executable code for JavaScript apps that verify behavior.  
+
+Would be interested in discussing the opportunity to author this title? I’d be delighted to discuss this opportunity further.
+
+Looking forward to hearing from you,
+
+
+________________________________________
+
+Hi <author>
+ 
+My name is <name> and I work as an Acquisition Editor for Packt Publishing Ltd – a publishing company specialising in IT. I am currently looking for an author to write a book concerning SQL Server Denali Reporting Services and found you through your SQL blog. I believe you have the necessary experience and expertise to potentially write this book, so please get in touch if you would like more details on this opportunity.
+ 
+Many Thanks,
+
+---------------------------------------------------------------------------------
+
+Thanks so much for your quick and prompt response. You are happy to share your knowledge with others, try and reach to python developers out there who really want to learn Reactive programming and its concepts. That’s great! Packt provides a platform that can make your book reach out to a larger audience across the globe.
+
+I would like to answer your concerns with regard to time and compensation:
+
+Firstly, most of our authors are professional, working developers. So, our process itself is planned considering the time aspect of our authors. We give them adequate time to create a Quality product. We expect the first draft to be written in 4 months which is a good amount of time to work on the product. The books are also published on time.
+
+We pay an advance of $3000 and a royalty of 16%. This book will be priced at around $50. Our other Python books have mainly sold over 1000 copies. Now that we are a well established tech publishing firm in the book market we expect to sell more than 1200 copies and I am confident that with a 16% royalty you will be able make an appreciable amount of money.
+
+I want you share the ideas for the book outline. I will go through them and get back to you with my comments, suggestions or queries.
+
