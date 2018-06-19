@@ -2,8 +2,8 @@ Hi Dave!
 
 Hope you're doing well!
 
-I am Faisal Sayed, an Acquisition Editor at Packt Publishing.
-Packt publishes books for all levels of I.T. users across Enterprise and Open Source software. You can have a detailed look at www.packtpub.com. 
+I am x, an Acquisition Editor at xxx.
+xxx publishes books for all levels of I.T. users across Enterprise and Open Source software. You can have a detailed look at www.packtpub.com. 
 We want to create a course on "Python for Data Science".
 I came across your LinkedIn profile and was impressed by it. Your Git repositories and YouTube channel showcase the level of expertise you have in the field of Data Science. 
 I feel that a person with your experience would be perfect to develop this course. It will be great if you could spare some time and work with us to create this course and help us provide the right resource to the students and developers out there.
