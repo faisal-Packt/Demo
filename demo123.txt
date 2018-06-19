@@ -2,7 +2,7 @@ Hi Dave!
 
 Hope you're doing well!
 
-I am Faisal Sayed, an Acquisition Editor at Packt Publishing.We publish books for all levels of I.T. users across Enterprise and Open Source software (www.packtpub.com if you would like to have a look).
+I am x, an Acquisition Editor at xxx.We publish books for all levels of I.T. users across Enterprise and Open Source software (www.packtpub.com if you would like to have a look).
 
 We are looking forward to create a course on "Python for Data Science".
 
